@@ -1,0 +1,25 @@
+@import "~bootstrap/scss/bootstrap";
+
+// customize some Bootstrap variables
+$primary: darken(#428bca, 20%);
+
+// the ~ allows you to reference things in node_modules
+
+.nfq-academy {
+    margin: 20px auto;
+    text-align: center;
+    font-size: 96px;
+    font-weight: 100;
+    font-family: 'Lato', serif;
+}
+.box {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    text-align: center;
+}

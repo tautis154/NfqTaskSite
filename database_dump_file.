@@ -1,0 +1,2 @@
+/usr/lib/postgresql/12/bin/pg_dump: unrecognized option '--mysql://ksqjggfvqnnbtn2l:humrveaezedgq6mk@nwhazdrp7hdpd4a4.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/exvnqt2580tmxcvw'
+Try "pg_dump --help" for more information.
